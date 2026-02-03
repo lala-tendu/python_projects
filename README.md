@@ -30,5 +30,5 @@ This project is designed to practice:
 
 ---
 
-## project url
-https://github.com/lala-tendu/python_projects
+## project URL
+https://roadmap.sh/projects/task-tracker
